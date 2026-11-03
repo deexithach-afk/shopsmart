@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password_hash": "7b54062d0c4a72e186ebed296a1d390374a8b137f5a3a5cbf522173a787b10d8",
+        "name": "Administrator",
+        "role": "Admin"
+    },
+    {
+        "username": "shopper",
+        "password_hash": "24d5343ee97a5811acdf8ca9669134b8412b9d98a04f2f8b60e8d887afa8c484",
+        "name": "Demo Shopper",
+        "role": "User"
+    },
+    {
+        "username": "123456",
+        "password_hash": "81161dbcbcc959e4d26503fee01e4a96c5875aefc2a00d037e1a6a65450e2ca3",
+        "name": "deexi",
+        "role": "User"
+    }
+]
